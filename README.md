@@ -29,3 +29,22 @@ Durante o desenvolvimento, foram corrigidos problemas existentes no projeto e ad
 
 ---
 
+##  Integrantes do grupo
+
+* Isaac Pongelli Ambrozevicius — RM 569166
+* Joao Lucca Marenov Santos — RM 569562
+* Thalles Almeida Angelini — RM 569925
+* Murillo Marim Farias — RM 569045
+
+---
+
+
+##  Observações
+
+* Nós tivemos problemas com o GithubClassroom, foi necessária a criação do Codexx, Codexx-1 e Codexx-2(sendo o Codexx-2 o repo utilizado)
+* O projeto foi desenvolvido seguindo o padrão de **Conventional Commits**
+* Todas as alterações foram realizadas via **Pull Requests**
+* A branch `main` está protegida, garantindo boas práticas de versionamento
+* O trabalho foi organizado utilizando **Issues** no GitHub
+
+---
